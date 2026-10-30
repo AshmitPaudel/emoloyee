@@ -630,7 +630,7 @@ export default function HomePage() {
           <div className="flex items-center justify-between pt-2">
             <div>
               <h2 className="text-lg font-semibold text-slate-800">
-                Employee Table
+                Employee Table List
               </h2>
               <p className="mt-1 text-sm text-slate-500">
                 Showing {filteredEmployees.length} of {employees.length}{" "}
